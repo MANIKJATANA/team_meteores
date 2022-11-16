@@ -1,0 +1,57 @@
+body{
+    background-color: #FFF9B0;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+.topicon{
+    height: 70px;
+    width: 70px;
+}
+.navbar-brand{
+    font-family:  'Montserrat', sans-serif;
+}
+.top-container{
+    text-align: center;
+    padding : 3% 5%;
+    color:#71C9CE;
+}
+.top-image{
+    height: 500px;
+    width: 700px;
+}
+.get-started{
+   color: #71C9CE;
+}
+
+/* navbar*/
+
+#top-panel{
+    padding: 3% 5%;
+}
+.nav-item{
+    font-size: 22px;
+    margin : 0 18px;
+}
+
+
+/* features section */
+#features{
+    background-color: #71C9CE;
+    text-align: center;
+    padding: 7% 15%;
+    color:antiquewhite;
+    border-radius: 30%;
+}
+.feat{
+    padding : 5% 10%;
+}
+.feature:hover{
+   color: #000000;
+}
+
+/* footer section */
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
